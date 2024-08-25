@@ -8,7 +8,11 @@ public class getInputfromUser{
         String  name = sk.next();
         System.out.println("Enter you last name :");
         String lname = sk.next();
-        System.out.println("your name is :"+name+ " "+lname);
+        System.out.println("Enter Your age : ");
+        int age = sk.nextInt();
+        System.out.println("your name is :"+name+ " "+lname+"\nYour age is : " +age);
+
+        
 
     }
 }
