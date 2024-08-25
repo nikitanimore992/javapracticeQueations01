@@ -1,8 +1,8 @@
 // import java.util.Scanner;
 
-class student {
+class helllo {
     public static void main(String[] args) {
         // Scanner sk = new Scanner(System.in);
-        System.out.println("Hello world");
+        System.out.println("Hello Nikita");
     }
 }
