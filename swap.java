@@ -7,6 +7,7 @@ class swap{
      int b = 20;
      int c = a;
      a = b;
-     b = c;   
+     b = c;  
+     System.out.println("a = "+a+ "b = "+b); 
     }
 }
