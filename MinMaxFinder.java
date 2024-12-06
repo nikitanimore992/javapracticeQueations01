@@ -1,4 +1,4 @@
-import java.util.Arrays;
+koimport java.util.Arrays;
 
 public class MinMaxFinder {
 
@@ -42,3 +42,4 @@ public class MinMaxFinder {
                            + setmaxi(A, N));
     }
 }
+
