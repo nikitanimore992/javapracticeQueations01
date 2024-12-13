@@ -8,4 +8,8 @@ class StringInout  {
         str = sk.nextLine();
         System.out.println("Your name is : "+str);
     }
+
+
+
+
 }
