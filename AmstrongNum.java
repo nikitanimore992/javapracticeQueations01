@@ -10,5 +10,8 @@ class AmstrongNum{
         }
             System.out.println(num==sum);
 
+
+
+
     }
 }
