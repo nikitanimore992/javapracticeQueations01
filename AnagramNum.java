@@ -12,5 +12,8 @@ public class AnagramNum{
             System.out.println(Arrays.equals(arr1 ,
 
  arr2));
+
+
+
     }
 }
