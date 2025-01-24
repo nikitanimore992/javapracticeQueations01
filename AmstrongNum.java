@@ -6,9 +6,6 @@ class AmstrongNum{
        int temp = num;
         while(temp!=0){
             int digit = temp  %10;
-
-
-
             sum += Math.pow(digit,3);
             temp = temp/10;
         }
