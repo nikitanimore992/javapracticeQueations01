@@ -16,8 +16,7 @@ public class RemoveDuplicateInArray{
                 arr[i] = temp[i];  
             }  
             return j;  
-        }  
-           
+        }   
         public static void main (String[] args) {  
             int arr[] = {10,20,20,30,30,40,50,50};  
             int length = arr.length;  
