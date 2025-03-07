@@ -8,6 +8,7 @@ class AmstrongNum{
             int digit = temp  %10;
             sum += Math.pow(digit,3); 
             temp = temp/10;
+
     }
      System.out.println(num==sum);
     }
