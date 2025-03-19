@@ -9,6 +9,4 @@ public class OccurancesCharacter{
         System.out.println(count);
     }
 
-
-
 }
