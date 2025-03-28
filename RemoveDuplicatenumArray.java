@@ -10,8 +10,6 @@ class RemoveDuplicatenumArray{
                 set.add(num);
             }
 
-
-
             System.out.print(set);
     }
 }
