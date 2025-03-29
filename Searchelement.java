@@ -1,9 +1,5 @@
 
 
-
-// Java program to implement linear
-// search in unsorted arrays
-
 class Searchelement {
   
     // Function to implement
