@@ -38,7 +38,7 @@ class largestwordsantance{
           }    
       }            
       
-      small = large = words[0];    
+     small = large = words[0];    
           
      
       for(int k = 0; k < length; k++){    
