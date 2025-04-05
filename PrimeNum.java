@@ -10,5 +10,5 @@ public class PrimeNum{
                 }
              }
              System.out.println(isPrime);
-    }
+   }
 }
