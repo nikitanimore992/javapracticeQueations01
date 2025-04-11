@@ -9,7 +9,6 @@ public class AnagramNum{
             char[] arr2 = str2.toCharArray();
             Arrays.sort(arr1);
             Arrays.sort(arr2);
-            System.out.println(Arrays.equals(arr1 ,arr2));
-
+            System.out.println(Arrays.equals(arr1 ,arr2))
     }
 }
