@@ -24,4 +24,4 @@ public class RemoveDuplicateInArray{
             for (int i=0; i<length; i++)  
                System.out.print(arr[i]+" ");  
         }  
-    }  
+   }  
