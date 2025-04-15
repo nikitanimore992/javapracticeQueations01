@@ -10,7 +10,4 @@ public class FactoialNumber{
         }
         System.out.print(fact);
     }
-
-
-
 }
