@@ -9,6 +9,5 @@ public class swapnum{
          a = b;
          b = c;
          System.out.println("a = "+a+" b = "+b
-
     }
 }
