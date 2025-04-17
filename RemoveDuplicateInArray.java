@@ -9,7 +9,7 @@ public class RemoveDuplicateInArray{
                 if (arr[i] != arr[i+1]){  
                     temp[j++] = arr[i];  
                 }  
-             }  
+             } 
             temp[j++] = arr[n-1];     
             // Changing original array  
             for (int i=0; i<j; i++){  
