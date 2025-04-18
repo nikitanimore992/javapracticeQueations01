@@ -36,7 +36,7 @@ class largestwordsantance{
               
               word = "";    
           }    
-      }            
+     }            
       
      small = large = words[0];    
           
