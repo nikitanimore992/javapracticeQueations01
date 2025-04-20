@@ -31,7 +31,6 @@ public class MinMaxFinder {
         }
         return maxi;
 
-
     }
 
     public static void main(String[] args)
