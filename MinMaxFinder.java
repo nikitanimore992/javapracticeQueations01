@@ -10,7 +10,7 @@ public class MinMaxFinder {
                 mini = A[i];
             }
         }
-        return mini;
+       return mini;
     }
 
     /**
