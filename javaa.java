@@ -2,7 +2,7 @@ public class GFG {
     // Main driver method
     public static void main(String[] args)
     {
-        // Declaring an integer variable
+      // Declaring an integer variable
         int x = 2;
         // For loop to iterate
         for (long y = 0, z = 4; x < 10 && y < 10;
