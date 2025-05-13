@@ -1,7 +1,7 @@
 
 class AmstrongNum{
 
-   public static void main(String args[]){
+  public static void main(String args[]){
         int num = 153 ;
         int sum = 0;
        int temp = num;
