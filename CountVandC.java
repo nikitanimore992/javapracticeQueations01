@@ -1,7 +1,7 @@
 public class CountVandC{
     public static void main(String[] args){
 
-            String str = "nikita";
+           String str = "nikita";
             int v = 0, con = 0;
 
             for(char c:str.toCharArray()){
