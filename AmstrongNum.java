@@ -2,7 +2,7 @@
 class AmstrongNum{
 
  public static void main(String args[]){
-        int num = 153 ;
+       int num = 153 ;
         int sum = 0;
        int temp = num;
         while(temp!=0){
