@@ -10,7 +10,7 @@
 //                 lw = word[i];
 //             }
 //        }
-       
+      
 //      }
 //      System.out.println(lw + " longest word "+ lw.length()+" charater.");
 //      System.out.println(rts.length());
