@@ -11,7 +11,7 @@ class GfG {
         for (int i = 0; i < arr.length; i += 2) {
             res.add(arr[i]);
         }
-        return res;
+       return res;
     }
 
     public static void main(String[] args) {
