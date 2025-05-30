@@ -44,4 +44,3 @@ public class MinMaxFinder {
                            + setmaxi(A, N));
     }
 }
-
