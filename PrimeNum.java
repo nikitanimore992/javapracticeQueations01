@@ -9,6 +9,6 @@ public class PrimeNum{
                     break;
                 }
              }
-             System.out.println(isPrime);
+            System.out.println(isPrime);
    }
 }
