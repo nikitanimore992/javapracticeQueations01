@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class AnagramNum{
     public static void main(String[] args){
 
+
             String str1 = "nikita";
             String str2 = "Anjali";
             char[] arr1 = str1.toCharArray();
