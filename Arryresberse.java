@@ -1,5 +1,3 @@
-
-
 // Java Program to reverse an array using temporary array
 
 import java.util.Arrays;
