@@ -9,6 +9,10 @@ class AmstrongNum{
             sum += Math.pow(digit,3);
         temp = temp/10;
 }     
+
+
+
+
   System.out.println(num==sum);
     }
 }
