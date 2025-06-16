@@ -4,7 +4,5 @@ public class CountNumDigit{
         int num = 1234561805;
         int count = String.valueOf(num).length();
         System.out.println(count);
-
-
     }
 }
