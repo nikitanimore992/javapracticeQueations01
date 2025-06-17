@@ -3,8 +3,7 @@
 import java.util.Arrays;
 
 class Arryresberse {
-    
-    // function to reverse an array
+      // function to reverse an array
     static void reverseArray(int[] arr) {
         int n = arr.length;
         
