@@ -9,7 +9,7 @@ public class FaboncciSeries{
                 num1=num2;
                 num2=num3;
 
-               }
+             }
         }
     }
 }
