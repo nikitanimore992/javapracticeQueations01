@@ -1,7 +1,6 @@
 koimport java.util.Arrays;
 
 public class MinMaxFinder {
-
     public static int setmini(int[] A, int N)
     {
         int mini = Integer.MAX_VALUE;
