@@ -3,7 +3,13 @@ public class OccurancesCharacter{
         String str = "Automationaa";
         char ch = 'a';
         int count = 0;
-        for(char c : str.toCharArray()){
+        for(char c : str.toCharArray())
+
+
+
+
+
+
            if(c==ch)count++;
         }
         System.out.println(count);
