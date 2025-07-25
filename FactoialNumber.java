@@ -7,9 +7,6 @@ public class FactoialNumber{
             fact = fact*i;
         }
 
-
-
-
         System.out.print(fact);
     }
 }
