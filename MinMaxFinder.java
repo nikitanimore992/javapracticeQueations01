@@ -49,4 +49,5 @@ public class MinMaxFinder {
         System.out.println("Maximum element is: "
                            + setmaxi(A, N));
     }
+
 }
