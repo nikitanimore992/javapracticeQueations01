@@ -23,6 +23,8 @@ public class MinMaxFinder {
      * @param N The size of the array.
      * @return The maximum element in the array.
      */
+
+
     public static int setmaxi(int[] A, int N)
     {
         int maxi = Integer.MIN_VALUE;
