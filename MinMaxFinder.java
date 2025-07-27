@@ -39,6 +39,7 @@ public class MinMaxFinder {
     }
 
 
+
     public static void main(String[] args)
     {
         int[] A = { 4, 9, 6, 5, 2, 3 };
