@@ -1,5 +1,8 @@
 koimport java.util.Arrays;
 
+
+
+
 public class MinMaxFinder {
     public static int setmini(int[] A, int N)
     {
@@ -11,6 +14,8 @@ public class MinMaxFinder {
         }
        return mini;
 }
+
+
     /**
      * Finds the maximum element in an array of integers.
      *
