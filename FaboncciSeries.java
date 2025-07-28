@@ -1,4 +1,5 @@
 public class FaboncciSeries{
+
     public static void main(String[] args){
 
        int n = 10, num1 = 0, num2 = 2;
