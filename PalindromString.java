@@ -3,7 +3,5 @@ public class PalindromString{
         String str = "nayan";
         String palindrome = new StringBuilder(str).reverse().toString();
         System.out.println(palindrome);
-       
-
     }
 }
