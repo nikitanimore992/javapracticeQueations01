@@ -3,7 +3,7 @@
 class PrimeNumRange{
     public static void main(String[] args){
        
- 
+
         int strt = 10;
         int end = 50;
         for (int num = strt; num<=end; num++){
