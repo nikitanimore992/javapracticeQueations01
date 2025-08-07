@@ -13,6 +13,7 @@ public class MinMaxFinder {
        return mini;
 }
 
+
     /**
      * Finds the maximum element in an array of integers.
      *
