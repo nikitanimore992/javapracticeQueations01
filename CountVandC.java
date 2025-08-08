@@ -6,7 +6,6 @@ public class CountVandC{
             for(char c:str.toCharArray()){
                 if("aeiouAEIOU".indexOf(c)!=-1){
                     v++;
-
                 }else if(Character.isLetter(c)){
                     con++;
                 }
