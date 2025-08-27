@@ -7,4 +7,5 @@ public class OccurancesCharacter{
            if(c==ch)count++;
         }
         System.out.println(count);
+
    }}
