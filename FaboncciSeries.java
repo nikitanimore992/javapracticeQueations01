@@ -8,7 +8,7 @@ public class FaboncciSeries{
                 System.out.print(","+num3);
                 num1=num2;
                 num2=num3;
-             }
+            }
         }
     }
 }
