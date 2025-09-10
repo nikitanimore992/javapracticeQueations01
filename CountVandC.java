@@ -10,6 +10,6 @@ public class CountVandC{
                     con++;
                 }
           }
-                System.out.println("vowel : "+v+" , consonats : "+con);
+ System.out.println("vowel : "+v+" , consonats : "+con);
         }
 }
