@@ -12,7 +12,6 @@ class Arryresberse {
         // Copy elements from original array to temp in reverse order
         for (int i = 0; i < n; i++)
             temp[i] = arr[n - i - 1];
-  
         // Copy elements back to original array
         for (int i = 0; i < n; i++)
             arr[i] = temp[i];
