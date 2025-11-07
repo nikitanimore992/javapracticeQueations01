@@ -8,7 +8,6 @@ class Arryresberse {
         
         // Temporary array to store elements in reversed order
         int[] temp = new int[n];
-  
         // Copy elements from original array to temp in reverse order
         for (int i = 0; i < n; i++)
             temp[i] = arr[n - i - 1];
