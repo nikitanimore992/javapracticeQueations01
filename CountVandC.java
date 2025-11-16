@@ -8,7 +8,7 @@ public class CountVandC{
                     v++;
                 }else if(Character.isLetter(c)){
                     con++;
-              }
+             }
           }
  System.out.println("vowel : "+v+" , consonats : "+con);
         }
