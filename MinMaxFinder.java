@@ -8,7 +8,7 @@ public class MinMaxFinder {
         for (int i = 0; i < N; i++) {
             if (A[i] < mini) {
                 mini = A[i];
-            }
+           }
         }
        return mini;
 }
