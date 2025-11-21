@@ -6,7 +6,7 @@ public class FaboncciSeries{
             for(int i=2; i<n; i++){
                 int num3 = num1+num2;
                 System.out.print(","+num3);
-                num1=num2;
+               num1=num2;
               num2=num3;
            }
        }
