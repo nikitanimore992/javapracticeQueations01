@@ -27,7 +27,7 @@ public class MinMaxFinder {
 
         for (int i = 0; i < N; i++) {
             if (A[i] > maxi) {
-                maxi = A[i];
+              maxi = A[i];
             }
         }
         return maxi;
