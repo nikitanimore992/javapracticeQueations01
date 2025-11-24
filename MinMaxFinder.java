@@ -24,7 +24,6 @@ public class MinMaxFinder {
     public static int setmaxi(int[] A, int N)
     {
         int maxi = Integer.MIN_VALUE;
-
         for (int i = 0; i < N; i++) {
             if (A[i] > maxi) {
               maxi = A[i];
