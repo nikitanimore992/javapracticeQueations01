@@ -5,7 +5,7 @@ public class PrimeNum{
              for (int i =2; i<=Math.sqr(num); i++){
                 if(num%i==0){
                     isPrime = false;
-                    break;
+                   break;
                 }
              }
             System.out.println(isPrime);
