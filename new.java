@@ -8,7 +8,6 @@ public class Main {
                 minVal = i;
             }
         }
-
         System.out.println("Lowest value: " + minVal);
     }
 }
