@@ -5,7 +5,7 @@ public class OccurancesCharacter{
         int count = 0;
         for(char c : str.toCharArray())
 {
-           if(c==ch)count++;
+          if(c==ch)count++;
         }
         System.out.println(count);
    }}
