@@ -5,6 +5,6 @@ public class FactoialNumber{
         for (int i = 1; i<= num; i++){
         fact = fact*i;
        } 
-      System.out.print(fact);
+     System.out.print(fact);
 }
 }
