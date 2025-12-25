@@ -4,7 +4,7 @@ class FindlargestNumArray{
        int larg = arr[0];
        for(int num:arr){
         if(num>larg){
-        larg= num; 
+       larg= num; 
 } } 
      System.out.println(larg);
    }
