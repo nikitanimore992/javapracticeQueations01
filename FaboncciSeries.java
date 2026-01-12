@@ -4,7 +4,7 @@ public class FaboncciSeries{
         System.out.print("Fabonacci serice : "+num1 + ","+num2);
 {
        for(int i=2; i<n; i++){
-                int num3 = num1+num2;
+               int num3 = num1+num2;
                 System.out.print(","+num3);
                num1=num2;
               num2=num3;
