@@ -1,4 +1,3 @@
-
 public class CountNumDigit{
     public static void main(String[] args){
         int num = 1234561805;
