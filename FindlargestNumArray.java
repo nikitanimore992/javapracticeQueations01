@@ -3,7 +3,7 @@ class FindlargestNumArray{
        int arr[]={1,2,3,4,5,6,12,18,20};
        int larg = arr[0];
        for(int num:arr){
-        if(num>larg){
+     if(num>larg){
       larg= num; 
 } } 
      System.out.println(larg);
