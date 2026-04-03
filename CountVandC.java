@@ -6,7 +6,7 @@ public class CountVandC{
                 if("aeiouAEIOU".indexOf(c)!=-1){
                     v++;
                 }else if(Character.isLetter(c)){
-                    con++;
+                   con++;
              }
           }
  System.out.println("vowel : "+v+" , consonats : "+con);
